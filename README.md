@@ -17,7 +17,7 @@ Star_Road - 국내 여행지 추천 서비스
 |                 Frontend                  |               Frontend               |              Frontend              |                 Frontend                 |                Backend                 |              Backend              |               
 | :--------------------------------------: | :---------------------------------: | :--------------------------------: | :--------------------------------------: | :-------------------------------------: | :--------------------------------: |
 |                                          |
-| [[팀장_최현준](https://github.com/solssak)] | [양영조] | [김채영] | [권희경] | [김희산] | [김승환] |
+| [[팀장_최현준](https://github.com/solssak)] | [양영조] | [김채영] | [권희경] | [김희산] | [김승환] |
 <br>
 <br>
 
@@ -31,7 +31,7 @@ Star_Road - 국내 여행지 추천 서비스
 <img src="https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=white">
 <img src="https://img.shields.io/badge/zustand-FF4154?style=for-the-badge&logo=zustand&logoColor=white">
 <img src="https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white">
-<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind&logoColor=white">
+<img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
 
 
 **Language |** JavaScript
