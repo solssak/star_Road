@@ -1,4 +1,4 @@
-# StarRoad - 국내 여행지 추천 서비스
+<img width="2552" alt="여행기" src="[https://github.com/solssak/star_Road/assets/107416133/48bee37f-24a1-4ac4-a206-79f72c284ee9](https://github.com/solssak/star_Road/assets/107416133/e84db8cd-40cf-4be5-a75c-ecf499e4c1e5)"># StarRoad - 국내 여행지 추천 서비스
 
 ![Group 21]()
 ## 당신의 여정을 함께할게요!
@@ -50,37 +50,16 @@ Star_Road - 국내 여행지 추천 서비스
 
 <div align="middle">
 
-<img src="https://img.shields.io/badge/java-3a75b0?style=for-the-badge&logo=java&logoColor=black"> <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-<img src="https://img.shields.io/badge/spring boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-<img src="https://img.shields.io/badge/spring mvc-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-<img src="https://img.shields.io/badge/JPA Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white">
-<img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
-<img src="https://img.shields.io/badge/junit-25A162?style=for-the-badge&logo=junit5&logoColor=white">
-<img src="https://img.shields.io/badge/spring test-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-<img src="https://img.shields.io/badge/spring rest docs-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+<img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=springboot&logoColor=white">
+<img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=spring&logoColor=white">
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=spring&logoColor=white">
 
 
-**Language |** Java 17
+**Language |** TypeScript
 
-**Framework |** Spring Boot 3.1.1
+**Framework |** Express
 
-**Data(RDBMS) |** JPA Hibernate 2.2.1 (Spring Data JPA 3.1.1)
-
-**Build Tool |** Gradle 8.1.1
-
-</div>
-
-### 🧷 인프라
-
-<div align="middle">
-
-<img src="https://img.shields.io/badge/AWS EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white">
-<img src="https://img.shields.io/badge/maria DB-4479A1?style=for-the-badge&logo=mariadb&logoColor=white">
-<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-
-**DB |** H2, MySQL 8
-
-**Server |** Git, SSH
+**Data(RDBMS) |** MySQL + GCP
 
 </div>
 
@@ -91,29 +70,32 @@ Star_Road - 국내 여행지 추천 서비스
 
 ## 1. 구글, 카카오 간편 로그인
     구글, 카카오 로그인으로 쉽게 로그인할 수 있어요
+<img width="2560" alt="로그인" src="https://github.com/solssak/star_Road/assets/107416133/314886d1-30c1-4f4b-9249-229f935a97e5">
+
 
 <br>
 
-## 2. 여행지 검색 및 생성
+## 2. 여행지 검색 및 일정 생성
     날짜를 선택하고 장소를 추가하면 여행리스트를 생성해요
     각 장소별 상세 정보도 확인할 수 있어요!
+<img width="2560" alt="일정 생성" src="https://github.com/solssak/star_Road/assets/107416133/66a7614b-d60c-42f1-89d5-5f942ae0ea53">
 
-    
-<img width="700" alt="image" src="">
+
 <br>
 
 ## 3. 여행지 경로 확인
     선택한 경로의 대략적인 이동시간도 확인 가능해요
+<img width="2554" alt="일정 확인" src="https://github.com/solssak/star_Road/assets/107416133/7c7830c7-7605-4811-91ed-56c7c4d6d27b">
 
-<img width="700" alt="image" src="">
+
 <br>
 
 ## 4. 여행기 조회
     다른 사람들이 다녀온 여행지 상세 경로와 후기를 볼 수 있고 댓글 기능을 통해 커뮤니케이션을 할 수 있어요
-### 여행지별 후기 보기
-<img width="700" alt="image" src="">
+<img width="2552" alt="여행기" src="https://github.com/solssak/star_Road/assets/107416133/9dbb12f3-1e37-47ae-8279-344936c6a00b">
+
+### 여행기 상세 보기
+<img width="2554" alt="여행기 상세" src="https://github.com/solssak/star_Road/assets/107416133/c177d88f-114f-44bf-9933-0d7ec8b1a07a">
 
 
-### 댓글 기능을 통한 커뮤니케이션
-<img width="700" alt="image" src="">
 <br>
