@@ -1,4 +1,5 @@
 <img width="2552" alt="여행기" src="[https://github.com/solssak/star_Road/assets/107416133/48bee37f-24a1-4ac4-a206-79f72c284ee9](https://github.com/solssak/star_Road/assets/107416133/e84db8cd-40cf-4be5-a75c-ecf499e4c1e5)"># StarRoad - 국내 여행지 추천 서비스
+![starRoad_2](https://github.com/solssak/star_Road/assets/107416133/31324a81-afc7-49c3-b538-6cb1fdf4dfd1)
 
 ![Group 21]()
 ## 당신의 여정을 함께할게요!
